@@ -12,7 +12,7 @@ import 'data/repositories/user_repository.dart';
 import 'logic/user_cubit/user_cubit.dart';
 import 'core/routes/app_router.dart';
 import 'core/routes/app_routes.dart';
-
+// Flutter Task
 void main() {
   runApp(const NexusCommerceApp());
 }
